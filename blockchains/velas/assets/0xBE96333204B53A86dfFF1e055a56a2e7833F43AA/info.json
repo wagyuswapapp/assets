@@ -1,0 +1,30 @@
+{
+  "name": "Wrapped Ethereum on Velas",
+  "website": "https://ethereum.org/",
+  "description": "Ethereum is a global, open-source platform for decentralized applications. Eth is fueling transactions on the Chain.",
+  "explorer": "https://evmexplorer.velas.com/tokens/0xBE96333204B53A86dfFF1e055a56a2e7833F43AA",
+  "research": "https://research.binance.com/en/projects/ethereum",
+  "type": "BEP20",
+  "symbol": "VETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xBE96333204B53A86dfFF1e055a56a2e7833F43AA",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/ethereum/ethereum-org-website"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ethdotorg"
+    },
+    {
+      "name": "youtube",
+      "url": "https://youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/CetY6Y4"
+    }
+  ]
+}

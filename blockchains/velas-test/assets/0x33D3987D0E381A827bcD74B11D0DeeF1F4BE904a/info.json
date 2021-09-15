@@ -1,0 +1,11 @@
+{
+  "name": "BNB",
+  "symbol": "BNB",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.binance.com",
+  "explorer": "https://etherscan.io/token/0x33D3987D0E381A827bcD74B11D0DeeF1F4BE904a",
+  "status": "active",
+  "id": "0x33D3987D0E381A827bcD74B11D0DeeF1F4BE904a"
+}
