@@ -1,14 +1,14 @@
 {
-  "name": "Binance-Peg BUSD",
+  "name": "Multichain BUSD",
   "website": "https://paxos.com/busd",
   "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
-  "explorer": "https://bscscan.com/token/0xb670ab2BcC5682c3B8Efa504eee1Af440297f1ad",
+  "explorer": "https://bscscan.com/token/0xc111c29A988AE0C0087D97b33C6E6766808A3BD3",
   "research": "https://research.binance.com/en/projects/binance-usd",
   "type": "BEP20",
   "symbol": "BUSD",
   "decimals": 18,
   "status": "active",
-  "id": "0xb670ab2BcC5682c3B8Efa504eee1Af440297f1ad",
+  "id": "0xc111c29A988AE0C0087D97b33C6E6766808A3BD3",
   "links": [
     {
       "name": "github",

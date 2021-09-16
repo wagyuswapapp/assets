@@ -1,14 +1,14 @@
 {
-  "name": "Tether USD",
+  "name": "Multichain USDT",
   "website": "https://tether.to",
   "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
-  "explorer": "https://bscscan.com/token/0x271a2101D2523A7C81d025690D2d68684Bd4989B",
+  "explorer": "https://bscscan.com/token/0x01445C31581c354b7338AC35693AB2001B50b9aE",
   "research": "",
   "type": "BEP20",
   "symbol": "USDT",
   "decimals": 18,
   "status": "active",
-  "id": "0x271a2101D2523A7C81d025690D2d68684Bd4989B",
+  "id": "0x01445C31581c354b7338AC35693AB2001B50b9aE",
   "links": [
     {
       "name": "coinmarketcap",
