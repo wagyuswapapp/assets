@@ -2,13 +2,13 @@
   "name": "Tether USD",
   "website": "https://tether.to",
   "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
-  "explorer": "https://bscscan.com/token/0x79eE54d08935745C4D048818d9d61834db95D8cD",
+  "explorer": "https://bscscan.com/token/0x6Ef054B3E3C3C83E14527E8fa593c2c4435A6ea4",
   "research": "",
   "type": "BEP20",
   "symbol": "USDT",
   "decimals": 18,
   "status": "active",
-  "id": "0x79eE54d08935745C4D048818d9d61834db95D8cD",
+  "id": "0x6Ef054B3E3C3C83E14527E8fa593c2c4435A6ea4",
   "links": [
     {
       "name": "coinmarketcap",

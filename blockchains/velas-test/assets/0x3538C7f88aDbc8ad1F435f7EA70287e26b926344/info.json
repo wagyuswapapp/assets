@@ -1,14 +1,14 @@
 {
-  "name": "Binance-Peg Ethereum",
+  "name": "MultiChain WETH",
   "website": "https://ethereum.org/",
   "description": "Ethereum is a global, open-source platform for decentralized applications. Eth is fueling transactions on the Chain.",
-  "explorer": "https://bscscan.com/token/0xD87Fc1eDdb448834959d27f45aD7D6303aCa0475",
+  "explorer": "https://bscscan.com/token/0x3538C7f88aDbc8ad1F435f7EA70287e26b926344",
   "research": "https://research.binance.com/en/projects/ethereum",
   "type": "BEP20",
-  "symbol": "ETH",
+  "symbol": "MVWETH",
   "decimals": 18,
   "status": "active",
-  "id": "0xD87Fc1eDdb448834959d27f45aD7D6303aCa0475",
+  "id": "0x3538C7f88aDbc8ad1F435f7EA70287e26b926344",
   "links": [
     {
       "name": "github",
