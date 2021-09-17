@@ -1,6 +1,6 @@
 {
-  "name": "WAGYU",
-  "symbol": "WAGYU",
+  "name": "WAGToken",
+  "symbol": "WAG",
   "type": "ERC20",
   "decimals": 18,
   "description": "-",

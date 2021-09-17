@@ -5,7 +5,7 @@
   "explorer": "https://bscscan.com/token/0x3538C7f88aDbc8ad1F435f7EA70287e26b926344",
   "research": "https://research.binance.com/en/projects/ethereum",
   "type": "BEP20",
-  "symbol": "MVWETH",
+  "symbol": "WETH",
   "decimals": 18,
   "status": "active",
   "id": "0x3538C7f88aDbc8ad1F435f7EA70287e26b926344",

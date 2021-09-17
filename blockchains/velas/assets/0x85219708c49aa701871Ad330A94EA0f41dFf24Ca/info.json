@@ -5,7 +5,7 @@
   "explorer": "https://evmexplorer.velas.com/tokens/0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
   "research": "https://research.binance.com/en/projects/ethereum",
   "type": "BEP20",
-  "symbol": "VETH",
+  "symbol": "WETH",
   "decimals": 18,
   "status": "active",
   "id": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
