@@ -1,0 +1,11 @@
+{
+  "name": "WAG Token",
+  "symbol": "WAG",
+  "type": "VRC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.binance.com",
+  "explorer": "https://etherscan.io/token/0x1bC60cFc522A264639866D47C634EfCdddd624eA",
+  "status": "active",
+  "id": "0x1bC60cFc522A264639866D47C634EfCdddd624eA"
+}

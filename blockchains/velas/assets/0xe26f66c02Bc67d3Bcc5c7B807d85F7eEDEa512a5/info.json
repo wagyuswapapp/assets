@@ -1,11 +1,11 @@
 {
   "name": "WAGToken",
   "symbol": "WAG",
-  "type": "ERC20",
+  "type": "VRC20",
   "decimals": 18,
   "description": "-",
   "website": "https://www.binance.com",
-  "explorer": "https://etherscan.io/token/0xe26f66c02Bc67d3Bcc5c7B807d85F7eEDEa512a5",
+  "explorer": "https://evmexplorer.testnet.velas.com/address/0xe26f66c02Bc67d3Bcc5c7B807d85F7eEDEa512a5",
   "status": "active",
   "id": "0xe26f66c02Bc67d3Bcc5c7B807d85F7eEDEa512a5"
 }

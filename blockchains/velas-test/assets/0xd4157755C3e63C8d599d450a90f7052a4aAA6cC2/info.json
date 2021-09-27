@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Velas",
+  "symbol": "WVLX",
+  "type": "VRC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.binance.com",
+  "explorer": "https://etherscan.io/token/0xd4157755C3e63C8d599d450a90f7052a4aAA6cC2",
+  "status": "active",
+  "id": "0xd4157755C3e63C8d599d450a90f7052a4aAA6cC2"
+}

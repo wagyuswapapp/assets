@@ -1,11 +1,11 @@
 {
   "name": "Wrapped Velas",
   "symbol": "WVLX",
-  "type": "ERC20",
+  "type": "VRC20",
   "decimals": 18,
   "description": "-",
-  "website": "https://www.binance.com",
-  "explorer": "https://etherscan.io/token/0x2b1aBEb48f875465bf0D3A262a2080ab1C7A3E39",
+  "website": "https://www.velas.com",
+  "explorer": "https://evmexplorer.testnet.velas.com/address/0x2b1aBEb48f875465bf0D3A262a2080ab1C7A3E39",
   "status": "active",
   "id": "0x2b1aBEb48f875465bf0D3A262a2080ab1C7A3E39"
 }
