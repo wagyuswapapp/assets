@@ -4,8 +4,8 @@
   "type": "VRC20",
   "decimals": 18,
   "description": "-",
-  "website": "https://www.binance.com",
-  "explorer": "https://evmexplorer.testnet.velas.com/token/0x9238dd30b416d3e0c6df6d3e813b044327de979a",
+  "website": "https://wagyuswap.app/",
+  "explorer": "https://evmexplorer.testnet.velas.com/address/0xb830d8213e2c3dd621037703d05a5e594387b6be",
   "status": "active",
-  "id": "0x9238dd30b416d3e0c6df6d3e813b044327de979a"
+  "id": "0xb830d8213e2c3dd621037703d05a5e594387b6be"
 }
