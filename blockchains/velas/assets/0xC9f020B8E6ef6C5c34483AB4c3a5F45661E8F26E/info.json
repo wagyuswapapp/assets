@@ -1,0 +1,22 @@
+{
+  "name": "Vloki Inu",
+  "website": "https://vlokiinu.com/",
+  "description": "Vloki Inu",
+  "explorer": "https://evmexplorer.velas.com/address/0xC9f020B8E6ef6C5c34483AB4c3a5F45661E8F26E",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "VINU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xC9f020B8E6ef6C5c34483AB4c3a5F45661E8F26E",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/VlokiInu"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/eqwFWKYZ6j"
+    }
+  ]
+}
