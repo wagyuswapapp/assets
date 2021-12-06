@@ -1,0 +1,13 @@
+{
+  "name": "Barter",
+  "website": "https://barter.company/",
+  "description": "BRTR is a native token of the Barter Smartplace trading system with economic value",
+  "explorer": "https://evmexplorer.velas.com/address/0x7b24c63aa79ad66f34c1a8f50a1369ecd9ee43d8",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "BRTR",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x7b24c63aa79ad66f34c1a8f50a1369ecd9ee43d8",
+  "links": []
+}
