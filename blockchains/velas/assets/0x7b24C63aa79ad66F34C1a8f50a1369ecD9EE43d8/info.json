@@ -1,0 +1,38 @@
+{
+  "name": "Barter",
+  "symbol": "BRTR",
+  "type": "VRC20",
+  "decimals": 8,
+  "description": "BRTR is a native token of the Barter Smartplace trading system with economic value",
+  "website": "http://barter.company/",
+  "explorer": "https://evmexplorer.velas.com/address/0x7b24C63aa79ad66F34C1a8f50a1369ecD9EE43d8",
+  "status": "active",
+  "research": "",
+  "id": "0x7b24C63aa79ad66F34C1a8f50a1369ecD9EE43d8",
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/barterteam/"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/bartersmartplace"
+    },
+    {
+      "name": "instagram",
+      "url": "https://instagram.com/bartersmartplace/"
+    },
+    {
+      "name": "vk",
+      "url": "https://vk.com/barter.company/"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/barter/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/barter/"
+    },
+  ]
+}
