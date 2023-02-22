@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Telos",
+  "symbol": "WTLOS",
+  "type": "VRC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.binance.com",
+  "explorer": "https://testnet.telosscan.io/token/0xfadbc0a9a30394055a90e9205dd470c6e794cd5a",
+  "status": "active",
+  "id": "0xfadbc0a9a30394055a90e9205dd470c6e794cd5a"
+}
