@@ -1,0 +1,30 @@
+{
+  "name": "MultiChain WETH",
+  "website": "https://ethereum.org/",
+  "description": "Ethereum is a global, open-source platform for decentralized applications. Eth is fueling transactions on the Chain.",
+  "explorer": "https://testnet.teloscan.io/address/0xe94afce6d42f27aaca09af470181de1965aa719b",
+  "research": "https://research.binance.com/en/projects/ethereum",
+  "type": "VRC20",
+  "symbol": "ETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe94afce6d42f27aaca09af470181de1965aa719b",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/ethereum/ethereum-org-website"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ethdotorg"
+    },
+    {
+      "name": "youtube",
+      "url": "https://youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/CetY6Y4"
+    }
+  ]
+}

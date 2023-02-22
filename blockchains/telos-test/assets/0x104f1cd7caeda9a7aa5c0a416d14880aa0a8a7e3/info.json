@@ -1,0 +1,34 @@
+{
+  "name": "Multichain Velas USD Coin",
+  "website": "https://www.centre.io",
+  "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+  "explorer": "https://testnet.teloscan.io/address/0x104f1cd7caeda9a7aa5c0a416d14880aa0a8a7e3",
+  "research": "https://research.binance.com/en/projects/usd-coin",
+  "type": "VRC20",
+  "symbol": "USDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x104f1cd7caeda9a7aa5c0a416d14880aa0a8a7e3",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/centrehq"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://centre.io/pdfs/centre-whitepaper.pdf"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/usd-coin/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://coingecko.com/en/coins/usd-coin/"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/centre-blog"
+    }
+  ]
+}

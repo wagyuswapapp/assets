@@ -1,0 +1,11 @@
+{
+  "name": "WAG Token",
+  "symbol": "WAG",
+  "type": "VRC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://wagyuswap.app/",
+  "explorer": "https://testnet.teloscan.io/address/0x565bed5acd322e02fa7c26b7119d6e3b0f811243",
+  "status": "active",
+  "id": "0x565bed5acd322e02fa7c26b7119d6e3b0f811243"
+}
