@@ -1,0 +1,13 @@
+{
+  "name": "Fantom",
+  "website": "http://fantom.foundation/",
+  "description": "-",
+  "explorer": "https://teloscan.io/address/0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "FTM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
+  "links": []
+}

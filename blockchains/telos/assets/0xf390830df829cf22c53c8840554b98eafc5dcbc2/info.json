@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped Bitcoin",
+  "website": "https://wbtc.network/",
+  "description": "-",
+  "explorer": "https://teloscan.io/address/0xf390830df829cf22c53c8840554b98eafc5dcbc2",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "status": "active",
+  "id": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
+  "links": []
+}

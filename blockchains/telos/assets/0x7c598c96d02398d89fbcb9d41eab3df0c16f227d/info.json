@@ -1,0 +1,13 @@
+{
+  "name": "Avalanche",
+  "website": "https://www.avax.network/",
+  "description": "-",
+  "explorer": "https://teloscan.io/address/0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "AVAX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
+  "links": []
+}

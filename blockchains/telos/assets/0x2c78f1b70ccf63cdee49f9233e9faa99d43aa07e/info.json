@@ -1,0 +1,13 @@
+{
+  "name": "BNB",
+  "website": "https://www.binance.com/",
+  "description": "-",
+  "explorer": "https://teloscan.io/address/0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "BNB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
+  "links": []
+}

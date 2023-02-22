@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped TELOS",
+  "symbol": "WTLOS",
+  "type": "VRC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.velas.com",
+  "explorer": "https://teloscan.io/address/0xd102ce6a4db07d247fcc28f366a623df0938ca9e",
+  "status": "active",
+  "id": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e"
+}
