@@ -6,7 +6,7 @@
   "research": "https://research.binance.com/en/projects/usd-coin",
   "type": "VRC20",
   "symbol": "USDC",
-  "decimals": 18,
+  "decimals": 6,
   "status": "active",
   "id": "0x104f1cd7caeda9a7aa5c0a416d14880aa0a8a7e3",
   "links": [
