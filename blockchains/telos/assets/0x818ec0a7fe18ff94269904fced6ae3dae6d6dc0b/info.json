@@ -2,13 +2,13 @@
   "name": "Velas USD Coin",
   "website": "https://www.centre.io",
   "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
-  "explorer": "https://teloscan.io/address/0xe2C120f188eBd5389F71Cf4d9C16d05b62A58993",
+  "explorer": "https://teloscan.io/address/0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
   "research": "https://research.binance.com/en/projects/usd-coin",
   "type": "VRC20",
   "symbol": "USDC",
   "decimals": 18,
   "status": "active",
-  "id": "0xe2C120f188eBd5389F71Cf4d9C16d05b62A58993",
+  "id": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
   "links": [
     {
       "name": "github",
