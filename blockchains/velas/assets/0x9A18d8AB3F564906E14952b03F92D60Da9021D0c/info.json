@@ -1,0 +1,13 @@
+{
+  "name": "MetaCosmos",
+  "website": "https://meta-cosmos.org/",
+  "description": "MetaCosmos provides a metaverse with its own marketplace, replicating physical land ownership and community interactions",
+  "explorer": "https://evmexplorer.velas.com/address/0x9A18d8AB3F564906E14952b03F92D60Da9021D0c",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "MTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9A18d8AB3F564906E14952b03F92D60Da9021D0c",
+  "links": []
+}
