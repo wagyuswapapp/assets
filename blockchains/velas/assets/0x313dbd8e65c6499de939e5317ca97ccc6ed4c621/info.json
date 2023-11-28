@@ -1,0 +1,18 @@
+{
+  "name": "Velas Wrapped BTC",
+  "website": "https://velasbtc.org",
+  "description": "An VRC20 implementation of Wrapped Bitcoin token with a 1:1 backing to Bitcoin Network BTC on the Velas network.",
+  "explorer": "https://evmexplorer.velas.com/address/0x313dbd8e65c6499de939e5317ca97ccc6ed4c621",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x313dbd8e65c6499de939e5317ca97ccc6ed4c621",
+  "links": [
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/wrapped-bitcoin/"
+    }
+  ]
+}
