@@ -1,0 +1,13 @@
+{
+  "name": "Staked VLX",
+  "website": "https://accumulated.finance/stake/vlx",
+  "description": "stVLX is a liquid staking derivative of VLX issued by Accumulated Finance.",
+  "explorer": "https://evmexplorer.velas.com/address/0x3557371afed82dd683de278924bd0e1a790a3c49",
+  "research": "",
+  "type": "VRC20",
+  "symbol": "stVLX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3557371afed82dd683de278924bd0e1a790a3c49",
+  "links": []
+}
